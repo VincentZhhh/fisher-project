@@ -7,7 +7,7 @@ from app.models.user import User
 from app.web import web
 from flask_login import login_user, logout_user
 
-__author__ = '七月'
+__author__ = 'Mr.July'
 
 
 @web.route('/register', methods=['GET', 'POST'])
