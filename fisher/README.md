@@ -23,4 +23,6 @@
      2.进入fisher-project，运行pipenv shell
      
      3.python fisher.py
+     
+     4.访问localhost:2048
       
