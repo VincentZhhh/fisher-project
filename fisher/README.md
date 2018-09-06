@@ -16,7 +16,9 @@
 
 入口文件：fisher.py
 
-启动：1.全局安装pipenv
+启动：
+
+     1.全局安装pipenv
 
      2.进入fisher-project，运行pipenv shell
      
