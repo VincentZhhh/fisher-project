@@ -7,7 +7,7 @@ from app.models.drift import Drift
 from app.models.gift import Gift
 from app.view_models.trade import MyTrades
 from . import web
-__author__ = '七月'
+__author__ = 'Mr.July'
 
 
 @web.route('/my/gifts')
