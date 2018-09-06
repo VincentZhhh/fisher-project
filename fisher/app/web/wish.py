@@ -8,7 +8,7 @@ from app.models.wish import Wish
 from app.view_models.trade import MyTrades
 from . import web
 
-__author__ = '七月'
+__author__ = 'Mr.July'
 
 
 @web.route('/my/wish')
