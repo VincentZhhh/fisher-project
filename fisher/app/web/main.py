@@ -4,7 +4,7 @@ from app.models.gift import Gift
 from flask import render_template
 
 
-__author__ = '七月'
+__author__ = 'Mr.July'
 
 
 @web.route('/')
